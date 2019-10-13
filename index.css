@@ -117,6 +117,24 @@
     margin-top: 14px;
 }
 
+.icon-title{
+    color: #08104d;
+    font-size: 30px; 
+    margin-top: 20px;
+    text-align: center; 
+}
+
+.center{
+    margin-left: 40px;
+}
+
+.line{
+    width: 90px;
+    background-color: blue;
+}
+
+
+
 
 
 
